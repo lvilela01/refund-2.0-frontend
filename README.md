@@ -14,8 +14,21 @@
 
 Em aplicações financeiras, a precisão e a fiabilidade visual são inegociáveis. O Refund 2.0 é um *dashboard* desenvolvido para gerir pedidos de reembolso, combinando uma arquitetura React robusta com validações de esquemas de dados estritos.
 
-> **Nota:** Adicionar Screenshot do painel financeiro a funcionar. 
-> `![Refund Dashboard](./login.png)`
+<p align="center">
+  <img src="./images/login.png" width="49%" alt="Login" />
+  <img src="./images/create-account.png" width="49%" alt="Criar Conta" />
+</p>
+
+<p align="center">
+  <img src="./images/refund.png" width="49%" alt="Efetuar Reembolso" />
+  <img src="./images/success.png" width="49%" alt="Sucesso" />
+</p>
+
+<p align="center">
+  <img src="./images/manager-refunds.png" width="49%" alt="Gerir Reembolsos" />
+  <img src="./images/details-refund.png" width="49%" alt="Detalhes do Reembolso" />
+</p>
+
 
 ## ✨ Principais Funcionalidades
 
